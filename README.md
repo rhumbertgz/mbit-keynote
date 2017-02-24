@@ -22,3 +22,7 @@ npm install
 node index.js
 ```
 
+* Control your presentation using the micro:bit's buttons. 
+ 1. Button A - previous slide.
+ 1. Button B - start the presentation, and next slide.
+
