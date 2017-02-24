@@ -1,7 +1,7 @@
 {
   "name": "mbit-keynote",
   "version": "0.0.1",
-  "description": "Control your Keynote presentation with a BBC micro:bit from Node.js using BLE",
+  "description": "Control your Keynote presentation using the buttons of your micro:bit",
   "main": "index.js",
   "repository": {
     "type": "git",
