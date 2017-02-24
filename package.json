@@ -1,0 +1,28 @@
+{
+  "name": "mbit-keynote",
+  "version": "0.0.1",
+  "description": "Control your Keynote presentation with a BBC micro:bit from Node.js using BLE",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint ./ *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rhumbertgz/mbit-keynote.git"
+  },
+  "keywords": [
+    "micro:bit",
+    "microbit",
+    "keynote"
+  ],
+  "author": "Humberto Rodriguez Avila <rhumbertgz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhumbertgz/mbit-keynote.git/issues"
+  },
+  "homepage": "https://github.com/rhumbertgz/mbit-keynote.git",
+  "dependencies": {
+    "bbc-microbit": "0.1.0",
+    "applescript":"1.0.0"    
+  }
+}
