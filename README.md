@@ -23,6 +23,6 @@ node index.js
 ```
 
 * Control your presentation using the buttons. 
- 1. Button A - previous slide.
- 1. Button B - start the presentation, and next slide.
+ 1. Button A - shows previous slide.
+ 1. Button B - starts the presentation, and shows next slide.
 
