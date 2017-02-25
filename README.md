@@ -1,5 +1,5 @@
 # mbit-keynote
-Control your Keynote presentation with a BBC micro:bit using [node-bbc-microbit](https://github.com/sandeepmistry/node-bbc-microbit)
+Control your Keynote presentation using the buttons of your micro:bit.
 
 ## Prerequisites
 
